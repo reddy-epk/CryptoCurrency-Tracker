@@ -1,4 +1,4 @@
-In this project, let's build a **Cryptocurrency Tracker** by applying the concepts we have learned till now.
+Building a **Cryptocurrency Tracker**with React-Router
 
 ### Refer to the image below:
 
@@ -105,7 +105,7 @@ Use these files to complete the implementation:
 <summary>Click to view</summary>
 <br>
 
-- To display the animated loader, we need to import the `Loader` component using the below statement
+- To display the animated loader, import the `Loader` component using the below statement
 
   ```jsx
   import Loader from 'react-loader-spinner'
@@ -126,7 +126,7 @@ Use these files to complete the implementation:
 
 <br/>
 
-**The following instructions are required for the tests to pass**
+**Some Instructions**
 
 - The cryptocurrencies should have the alt as the value of the key `currency_name` from each cryptocurrency object received in response
 - Wrap the `Loader` component with an HTML container element and add the `data-testid` attribute value as `loader` to it as shown below
@@ -167,9 +167,4 @@ Use these files to complete the implementation:
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+
