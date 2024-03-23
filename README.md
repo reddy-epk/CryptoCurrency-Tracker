@@ -1,4 +1,4 @@
-Building a **Cryptocurrency Tracker**with React-Router
+Building a **Cryptocurrency Tracker** with React-Router
 
 ### Refer to the image below:
 
